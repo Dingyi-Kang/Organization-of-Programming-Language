@@ -36,3 +36,18 @@ https://youtu.be/yOBBkIJBEL8
 
 
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/81428296/193379657-b26f58d6-8317-4f23-86df-898bddf92d97.png">
+
+## we can take imperative operation light code and abstract it behind a declarative api
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/81428296/193381853-b08c231b-cb5a-40e0-bf36-7b70a2999ab4.png">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/81428296/193382108-01af0714-1b6f-4565-aa27-c12b26f15d6d.png">
+
+
+
+### purely declarative code example:
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/81428296/193380915-912c03f1-bddb-4dbe-bdc2-e538a4a08b19.png">
+
+and html and css
+
+<img width="964" alt="image" src="https://user-images.githubusercontent.com/81428296/193381250-614f59fe-e94f-49dd-89d3-ddab67b92a59.png">
+
+
